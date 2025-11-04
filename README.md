@@ -1,3 +1,26 @@
+# NYC Airbnb ML Pipeline
+
+This project builds and deploys a complete ML pipeline for the NYC Airbnb dataset using **MLflow**, **Weights & Biases**, and **Hydra**.  
+It includes data cleaning, splitting, model training, and testing with automated tracking and artifact management.
+
+---
+
+## 📎 Project Links
+
+- **W&B Project (Public):** [https://wandb.ai/kapilnepal5-/nyc_airbnb](https://wandb.ai/kapilnepal5-/nyc_airbnb)
+- **GitHub Repository:** [https://github.com/kapil7616/Project-Build-an-ML-Pipeline-Starter](https://github.com/kapil7616/Project-Build-an-ML-Pipeline-Starter)
+
+---
+
+## 🚀 Latest Release
+- **Version:** v1.0.1  
+- **Description:** Added NYC boundary cleaning fix to ensure data validity when running on new data samples.  
+- **Previous Release:** v1.0.0 (initial production-ready pipeline)
+
+---
+
+
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
